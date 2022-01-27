@@ -3,5 +3,5 @@
 
 # PROJETOS
 
-*[Projeto Android](https://yagorocha22.github.io/projeto-android/)
-*[Projeto Cordel](https://yagorocha22.github.io/projeto-cordel/)
+[Projeto Android](https://yagorocha22.github.io/projeto-android/)
+[Projeto Cordel](https://yagorocha22.github.io/projeto-cordel/)
